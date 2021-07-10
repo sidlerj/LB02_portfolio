@@ -317,6 +317,10 @@ header i{
     transition: transform 1s ease-in-out;
 }
 
+.carousel-indicators [data-bs-target]:hover{
+    background-color: #d54141;
+}
+
 /* quotes */
 .quotes-beams{
     margin-bottom: 2rem;
